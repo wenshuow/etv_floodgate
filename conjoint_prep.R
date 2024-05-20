@@ -231,8 +231,9 @@ floodgate <- function(df_train, df_validate, J, seed, icv, CV, distances, choose
       dir.create(file.path(file_dir), recursive = TRUE, showWarnings = FALSE)
       loss_file = sprintf("%s/loss_%d.csv",file_dir, seed)
       vars_file = sprintf("%s/var_%d.csv",file_dir, seed)
+    } else{
+      loss_file = "NONE"
     }
-
     if(loss_cache & file.exists(loss_file)){
       print('exists')
       load(loss_file)
