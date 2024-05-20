@@ -14,6 +14,6 @@ Correspondence should be addressed to [Wenshuo Wang](https://wenshuow.github.io)
 
 ## Reference
 
-* Wenshuo Wang, Lucas Janson, Lihua Lei and Aaditya Ramdas. (2024). *Total Variation Floodgate for Variable Importance Inference in Classification*. International Conference on Machine Learning 2024. [[pdf](https://wenshuow.github.io/files/ETV_WJLR.pdf)] [[arXiv](https://arxiv.org/abs/2309.04002)]
+* Wenshuo Wang, Lucas Janson, Lihua Lei and Aaditya Ramdas. (2024). *Total Variation Floodgate for Variable Importance Inference in Classification*. International Conference on Machine Learning 2024. [[pdf](https://wenshuow.github.io/files/ETV_WJLR.pdf)]
 * Yoshikuni Ono and Barry C. Burden. (2019). *The Contingent Effects of Candidate Sex on Voter Choice*. Political Behavior. [[journal](https://link.springer.com/article/10.1007/s11109-018-9464-6)]
 * Dae Woong Ham, Kosuke Imai and Lucas Janson. (2024). *Using Machine Learning to Test Causal Hypotheses in Conjoint Analysis*. Political Analysis. [[journal](https://www.cambridge.org/core/journals/political-analysis/article/abs/using-machine-learning-to-test-causal-hypotheses-in-conjoint-analysis/DC1ABAF81A5FADDC41D4C6451043E7D6)]
