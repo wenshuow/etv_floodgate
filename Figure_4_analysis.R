@@ -10,10 +10,10 @@ random_seed = 67
 
 selection = "CV" # choose from "Naive" and "CV"
 if(selection == "CV"){
-  # Running time is ~25 minutes (per seed)
+  # Running time is ~20 minutes (per seed per CV fold)
   res = floodgate_CV(df_org, J, CV, seed = random_seed, distances = c(0:10)/1000, choose_dist = 'validation', parallel = FALSE, loss_cache = FALSE)
 } else{
-  # Running time is ~25 minutes (per seed)
+  # Running time is ~20 minutes (per seed)
   res = floodgate_CV(df_org, J, CV, seed = random_seed, distances = c(0)/1000, choose_dist = 'all', parallel = FALSE, loss_cache = FALSE)
 }
 
